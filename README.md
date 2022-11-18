@@ -16,7 +16,7 @@
 
 # 내용
 
-**구현 기능**
+# 구현 기능
 
 * 영화 리스트
     - 영화 업로드, 수정, 삭제 가능한 사이트 
@@ -30,13 +30,13 @@
 * 영화 삭제
     - 정보 삭제 클릭시 영화를 삭제하게 해주는 기능
     
-**엔티티 그래프**
+# 엔티티 그래프
 
 ![image](https://user-images.githubusercontent.com/117800561/202642859-b568d89f-1de0-47d6-83e9-b1236e413e1a.png)
 ![image](https://user-images.githubusercontent.com/117800561/202647276-cfc584a6-ab20-4123-9fe2-0654749beea5.png)
 
 
-**용어 정의**
+# 용어 정의
 
 ![image](https://user-images.githubusercontent.com/117800561/202642958-c883efb7-47c5-4dfb-b513-42f97d466e90.png)
 ![image](https://user-images.githubusercontent.com/117800561/202642987-c3816877-478e-4851-be0e-45e6c994329a.png)
