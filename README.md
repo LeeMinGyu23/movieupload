@@ -44,7 +44,7 @@
 ![image](https://user-images.githubusercontent.com/117800561/202643086-695c0b03-2b87-4199-9e15-6365529ae356.png)
 ![image](https://user-images.githubusercontent.com/117800561/202643130-43b6f7f2-4aae-4e11-82e6-c347ecb6622f.png)
 
-**영화 등록 처리**
+# 영화 등록 처리
 
 ![image](https://user-images.githubusercontent.com/117800561/202643320-bdee4ec2-5997-49bb-a3d2-877f565ff006.png)
 ![image](https://user-images.githubusercontent.com/117800561/202643354-de771cef-73c0-4997-a357-8a610387f7a4.png)
@@ -56,7 +56,7 @@
 
 
 
-**영화 수정 처리**
+# 영화 수정 처리
 
 ![image](https://user-images.githubusercontent.com/117800561/202643442-17279422-a4b8-4c6c-a16c-f263988ff78b.png)
 
@@ -65,7 +65,7 @@
 ![image](https://user-images.githubusercontent.com/117800561/202643806-c6538152-fa9f-4b03-996a-96aadff36bcb.png)
 ![image](https://user-images.githubusercontent.com/117800561/202643842-93d8621d-93c1-4f22-87fe-0ba3e675a403.png)
 
-**영화 삭제 처리**
+# 영화 삭제 처리
 
 ![image](https://user-images.githubusercontent.com/117800561/202643909-bbf3e8ae-5bfa-4c58-807b-697a30b5fc21.png)
 
