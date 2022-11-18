@@ -33,6 +33,7 @@
 **엔티티 그래프**
 
 ![image](https://user-images.githubusercontent.com/117800561/202642859-b568d89f-1de0-47d6-83e9-b1236e413e1a.png)
+![image](https://user-images.githubusercontent.com/117800561/202647276-cfc584a6-ab20-4123-9fe2-0654749beea5.png)
 
 
 **용어 정의**
